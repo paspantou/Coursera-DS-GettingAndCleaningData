@@ -15,7 +15,7 @@ Explains the variables and the actions/modifications/transformations performed
 ### run_analysis.R
 An analysis script in R that performs the required data cleaning
 
-# content of run_analysis.R
+# Content of run_analysis.R
 The file takes as a prerequisite that, the file [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) has been downloaded and unzipped.
 
 ### line 3:
