@@ -1,7 +1,7 @@
 # Coursera-DS-GettingAndCleaningData
 The repository contains the files needed for the Data Science Course: Getting and cleaning data
 
-This README file
+## This README file
 1. lists the content of the repository and 
 2. explains the structure of the run_analysis.R file.
 
