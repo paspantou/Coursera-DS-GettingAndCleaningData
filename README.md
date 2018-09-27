@@ -46,7 +46,7 @@ a) load the activity assignment table from activity_labels.txt
 b) use the table to adjust the Y dataset according to the activity assignment table
 
 ## Question 4. Appropriately label the data set with descriptive variable names
-### lines 111-130, lines 86-99
+### lines 111-130, lines 82-99
 the Y data set refers to the activities
 
 the X data set refers to the measurements - the variable names are labeled in lines 86-99
