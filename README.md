@@ -11,10 +11,13 @@ The file:
 See above
 
 ### CodeBook.md
-Explains the variables and the actions/modifications/transformations performed
+Explains the variables and the actions/modifications/transformations performed.
 
 ### run_analysis.R
-An analysis script in R that performs the required data cleaning
+An analysis script in R that performs the required data cleaning.
+
+### tidyDataSet.txt
+The tidy data set created by the run_analysis.R script. See the CodeBook.md for an explanation of the content.
 
 # Content of run_analysis.R
 The file takes as a prerequisite that, the file [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) has been downloaded and unzipped.
