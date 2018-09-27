@@ -61,3 +61,4 @@ a) merge all data in one set
 
 b) create the aggregate tidy data set by averaging over the relevant columns
 
+c) save the tidy data set into a file
