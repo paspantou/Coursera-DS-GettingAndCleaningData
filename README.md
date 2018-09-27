@@ -2,9 +2,9 @@
 The repository contains the files needed for the Data Science Course: Getting and cleaning data
 
 ## How to read this README file
-The file contains:
-1. lists the content of the repository and 
-2. explains the structure of the run_analysis.R file.
+The file:
+1. lists the files of the repository with a brief explanation and 
+2. explains the structure of the run_analysis.R file along the programm lines and the questions of the assignment
 
 # Content of the repository
 ### README.md
