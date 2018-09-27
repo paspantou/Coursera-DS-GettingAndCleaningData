@@ -142,6 +142,6 @@ tidyDataSet <- aggregate(. ~subject + activity, consolidatedData, mean)
 
 # save data into a file
 tidyDataSetfile <- file(file.path(homepath, "merged", "tidyDataSet.txt"))
-write.table(tidyDataSet, tidyDataSetfile)
+write.table(tidyDataSet, tidyDataSetfile, row.names = FALSE)
 
 
